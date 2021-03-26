@@ -1,0 +1,37 @@
+/* Inicio Ejercicio 1 */
+@media (max-height: 800px){ 
+    p {
+    font-size: 10px;
+      }
+}
+/* Fin Ejercicio 1 */
+
+/* Inicio Ejercicio 2 */
+.responsive-img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+img {
+  width: 600px;
+}
+/* Fin Ejercicio 2 */
+
+/* Inicio Ejercicio 3 */
+
+.ejercicioTres{
+  height: 100px; 
+  width: 100px; 
+}
+/* Fin Ejercicio 3 */
+
+/* Inicio Ejercicio 4 */
+
+h2 {
+   width: 80vw;
+}
+.parrafo {
+  width: 75vmin;
+}
+/* Fin Ejercicio 4 */
